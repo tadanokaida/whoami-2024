@@ -28,7 +28,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - Mahathi Gandhamaneni
 - Jenny Lin
 - Steven Liu
-- Yunni Qu
+- Yunni Qu  I am from Beijing, China. I love listening to music and playing video games.
 - Jin Shang
 - Kevin Wang
 - Zhenyu Wang
