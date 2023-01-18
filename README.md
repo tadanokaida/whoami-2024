@@ -39,8 +39,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - [**@wyyw01**](https://github.com/wyyw01) Hi there, my name is Wei Yu. I am from U of T O(∩_∩)O. I like music, literature, etc. I also like eating, sleeping and playing. I am not good at playing video game but I like playing chess and especially like variant kinds. I also like skiing but haven't been skiing for a long time since COVID started. 
 - [**@karimzakir02**](https://github.com/karimzakir02). I am from Russia. I like cooking! (☞ ͡° ͜ʖ ͡°)☞
 - William Zhang [**@WilliamQD**](https://github.com/WilliamQD) Suppp! I'm William. I like to sit in the front rows of every lecture. Looking forward to meet everyone! <img src="https://avatars.githubusercontent.com/u/54301360?s=460&v=4" alt="head photo of William" width="80px">
-- Hongshuo Zhou (https://github.com/HS-ZHOU) Hi, I'm from China and my favorite sport is tennis🎾. Hope everyone has a wonderful semester🎉!
-
+- Hongshuo Zhou [**@Hongshuo**](https://github.com/HS-ZHOU) Hi, I'm from China and my favorite sport is tennis🎾. Hope everyone has a wonderful semester🎉!
 
 # Teaching Team
 
