@@ -26,7 +26,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 - [**@wisechua**](https://github.com/wisechua) Hi, my name is Wise and I am from Singapore. I love playing game 🎮 and watching drama. 
 - [**@mahathicodes**](https://github.com/mahathicodes) I am from Dubai, I love painting, watching TV shows, and exploring Toronto!
 - [**@jennylin331431**](https://github.com/Jennylin331431) I am Jenny Lin, and I enjoy watching mukbangs! 
-- Steven Liu Hi My Name is Steven Liu and I love studying <img src="https://th.bing.com/th/id/R.6afc61b50aabe45a2e6c68eae2c217ba?rik=L2W0YWncfjZBVA&riu=http%3a%2f%2fwww.shutterstock.com%2fblog%2fwp-content%2fuploads%2fsites%2f5%2f2016%2f03%2ffall-trees-road-1.jpg&ehk=KA%2bzFrmYoWsdK4k7v%2fgfNkd1T2rdnNtpF5ICdLIxAeM%3d&risl=&pid=ImgRaw&r=0" alt="image of my github profile picture" width="40px">
+- [**@Yuanxyyds**](https://github.com/Yuanxyyds) Hi My Name is Steven Liu and I love studying <img src="https://th.bing.com/th/id/R.6afc61b50aabe45a2e6c68eae2c217ba?rik=L2W0YWncfjZBVA&riu=http%3a%2f%2fwww.shutterstock.com%2fblog%2fwp-content%2fuploads%2fsites%2f5%2f2016%2f03%2ffall-trees-road-1.jpg&ehk=KA%2bzFrmYoWsdK4k7v%2fgfNkd1T2rdnNtpF5ICdLIxAeM%3d&risl=&pid=ImgRaw&r=0" alt="image of my github profile picture" width="40px">
 - Yunni Qu
 - Jin Shang [**@Jin**](https://github.com/J36A) Hello, I am Jin. Recently, my friends ask me to play CSGO, a good game but it is too hard for me. :(
 - [**Kevin Wang**](https://github.com/dungwoong): My only career goal is to meet Yann Lecun in person.
