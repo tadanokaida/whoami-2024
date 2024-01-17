@@ -21,6 +21,8 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 
+- [**@JakubGierus**](https://github.com/jakub-gierus) I am very interested in steam tunnels. Please let me know if you know how or where to access the steam or maintenance tunnels under the University.
+
 # Teaching Team
 
 - [**@meredithfranklin**](https://github.com/meredithfranklin)
