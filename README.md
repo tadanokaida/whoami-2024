@@ -21,6 +21,8 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 
+[**@masonhyz**](https://github.com/masonhyz) I like playing soccer. My favourite soccer player is Messi 🇦🇷. <img src="https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_641/MTY4MTAyNTc1MDYwMzYyNTEz/1992-94-lionel-messi-childhoodjpg.webp" alt="poppy" width="200px">
+
 # Teaching Team
 
 - [**@meredithfranklin**](https://github.com/meredithfranklin)
