@@ -23,10 +23,10 @@ Once you are done, submit a Pull Request to include your information in the orig
 [**@Cathypei**]() I have one cat and one dog 
 
 My Cat Leo:
-<img src="./IMG_9330.png" alt="My Cat" width="200" height="250">
+<img src="https://github.com/Cathypei/whoami-2024/blob/main/IMG_9330.png" alt="My Cat" width="200" height="250">
 
 My Dog Saber:
-<img src="./IMG_7259.png" alt="My Dog" width="200" height="250">
+<img src="https://github.com/Cathypei/whoami-2024/blob/main/IMG_7259.png" alt="My Dog" width="200" height="250">
 
 
 
