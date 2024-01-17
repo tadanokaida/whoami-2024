@@ -20,8 +20,14 @@ This is the code I used for writing that line:
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 # Students
-[**@Cathypei**]() I have one cat and one dog ![My Cat](./IMG_9330.png)
-![My Dog](./IMG_7259.png)
+[**@Cathypei**]() I have one cat and one dog 
+
+My Cat Leo:
+<img src="./IMG_9330.png" alt="My Cat" width="200" height="200">
+
+My Dog Saber:
+<img src="./IMG_7259.png" alt="My Dog" width="200" height="200">
+
 
 
 # Teaching Team
