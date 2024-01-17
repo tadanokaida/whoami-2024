@@ -20,6 +20,7 @@ This is the code I used for writing that line:
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 # Students
+
 - [**@jenydu**](https://github.com/jenydu) My name is Jenny. I am a UofT student.
 - [**@jessicayanwang**](https://github.com/jessicayanwang/) My name is Jessica and I like painting.
 
@@ -29,6 +30,15 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 
 - [**@JakubGierus**](https://github.com/jakub-gierus) I am very interested in steam tunnels. Please let me know if you know how or where to access the steam or maintenance tunnels under the University.
+
+[**@Cathypei**]() I have one cat and one dog 
+
+My Cat Leo:
+<img src="https://github.com/Cathypei/JSC370/blob/main/IMG_9330.png" alt="My Cat" width="200" height="250">
+
+My Dog Saber:
+<img src="https://github.com/Cathypei/JSC370/blob/main/IMG_7259.png" alt="My Dog" width="200" height="250">
+
 
 # Teaching Team
 
